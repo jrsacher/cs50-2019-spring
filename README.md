@@ -4,7 +4,7 @@
 
 ## Section 1
 
-### From [**C**olorful **C**ats](scratch.mit.edu) to plain old `C`
+### From [**C**olorful **C**ats](https://scratch.mit.edu) to plain old `C`
 
 ```C
 int main(void)
